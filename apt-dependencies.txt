@@ -1,0 +1,10 @@
+postfix
+dovecot-core
+opendkim
+opendkim-tools
+fail2ban
+clamav
+clamav-daemon
+clamsmtp
+certbot
+dig
